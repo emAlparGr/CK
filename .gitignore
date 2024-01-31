@@ -1,0 +1,4 @@
+cat .gitignore
+temp/ * 
+!temp/bin
+
